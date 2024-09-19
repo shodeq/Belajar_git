@@ -3,6 +3,7 @@ export default function App() {
         <div className="bg-blue-500 text-white p-4 w-full h-screen flex justify-center items-center flex-col gap-5">
             <h1>ini brach main</h1>
             <h1>ini branch dev</h1>
+            <h1>ini branch page home</h1>
         </div>
     );
 }
